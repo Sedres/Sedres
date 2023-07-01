@@ -13,7 +13,7 @@ Hi everyone, 👋 I'm going to explain my little journey a bit.<br><br>I am a pr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sedres&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=sedres)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=sedres13)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sedres&icon=1&color=9)](https://visitcount.itsvg.in)
